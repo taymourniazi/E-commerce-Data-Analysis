@@ -18,7 +18,7 @@ It contains sentences labelled with positive or negative sentiment, extracted fr
 
 
 Details:
-Score is either 1 (for positive) or 0 (for negative)	
+Score is either 1 (for positive) or 0 (for negative)  	
 The sentences come from three different websites/fields:  
 
 imdb.com, amazon.com, yelp.com  
