@@ -26,6 +26,6 @@ imdb.com
 amazon.com  
 yelp.com    
   
-For each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. 
+For each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews.   
 We attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected.  
 
