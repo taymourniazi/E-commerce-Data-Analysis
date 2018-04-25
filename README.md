@@ -12,9 +12,10 @@
 
 
 ### 2) Users sentiment analysis using Linear SVM in Py3
-the data can be available here  
+The data can be available here  
 https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences  
-It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
+It contains sentences labelled with positive or negative sentiment  
+extracted from reviews of products, movies, and restaurants  
 
 
 Details:  
